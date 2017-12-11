@@ -13,3 +13,7 @@ line added locally in a vi editor.
 
 ==============
 edit at "test" branch in a vi editor
+--------------------
+This is an awesome section:
+rose is red sky is blue, bill gates is wealthy and so are you.
+--------------------
